@@ -1,0 +1,43 @@
+name: text-analysis-gpu
+channels:
+  - pytorch
+  - nvidia
+  - conda-forge
+  - defaults
+
+dependencies:
+  - python=3.10
+  - pandas
+  - numpy
+  - scipy
+  - scikit-learn
+  - matplotlib
+  - seaborn
+  - nltk
+  - gensim
+  - spacy
+  - spacy-model-en_core_web_sm
+  - wordcloud
+  - openpyxl
+  - jupyterlab
+  - ipykernel
+  - smart_open
+  - pip
+
+  # PyTorch + CUDA
+  - pytorch::pytorch=2.5.1
+  - pytorch::torchvision=0.20.1
+  - pytorch::torchaudio=2.5.1
+  - pytorch::pytorch-cuda=12.1
+
+  # Optional but useful
+  - umap-learn
+
+  - pip:
+      - transformers
+      - detoxify
+      - kneed
+      - tqdm
+      - sentencepiece
+      - protobuf
+      - ftfy
