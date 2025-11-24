@@ -18,13 +18,13 @@ Main changes include:
 
 ## Introduction
 The rapid spread of misinformation in the digital age has made fact-checking organizations essential in verifying claims and curbing false information. Platforms like PolitiFact and Snopes play a crucial role in this effort, yet their effectiveness and consistency in evaluating claims have come under scrutiny. With Meta’s decision to scale back its third-party fact-checking initiatives, concerns have emerged regarding the reliability, agreement, and methodologies used by these independent fact-checking platforms. While their ratings aim to provide clarity, inconsistencies often arise due to differences in rating systems, contextual interpretations, and linguistic nuances.
-A key challenge in misinformation assessment is evaluating claims that contain high toxicity or strong sentiment, as emotionally charged language may influence how fact-checkers interpret and classify information. This study seeks to answer the main research question: 
+A key challenge in misinformation assessment is evaluating claims that contain high toxicity or strong sentiment, as emotionally charged language may correlate with how fact-checkers interpret and classify information. This study seeks to answer the main research question: 
 
 “What are the factors affecting fact-checking evaluations between PolitiFact and Snopes, particularly focusing on toxicity, sentiment, and thematic patterns.”
 
 To answer the research question, we will be looking into two sub-questions:
 
-1.	How do toxicity and sentiment levels influence the ratings assigned by PolitiFact and Snopes?
+1.	How do toxicity and sentiment levels relate to the ratings assigned by PolitiFact and Snopes?
 2.	What thematic patterns are common across "Fake" and “Real” claims as rated by PolitiFact and Snopes?
 
 Through statistical analysis and linguistic evaluation, this study examines trends in misinformation assessment using a computational approach to fact-checking methodologies. Sentiment and toxicity analysis will be used to evaluate the role of emotionally charged content, and thematic patterns will highlight recurring themes and structures in misinformation. By integrating multiple methods, the study aims to clarify fact-checking transparency, consistency, and potential biases in claim appraisal.
